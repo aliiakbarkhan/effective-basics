@@ -1,0 +1,4 @@
+cd,	"e:\coading\PROJECTS24\",	;,
+if,	($?),	{,
+gcc,	main.c,	-o,
+main,	},	;,
