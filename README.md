@@ -1,7 +1,10 @@
-
 # 🌟 Ultimate C Language Hub: From Basics to Beast Mode 💻
 
 Welcome to the **C Language Mastery Zone**—your one-stop shop for all things C programming! 🚀
+
+## All Rights Reserved.
+This repository and its contents are copyrighted. No part of this repository may be reproduced, distributed, or used without explicit permission from the owner.
+
 
 ## What's Poppin'? 🔥
 
