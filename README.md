@@ -5,7 +5,8 @@
 Welcome to the **C Language Mastery Zone**—your one-stop shop for all things C programming! 
 
 ## All Rights Reserved.
-This repository and its contents are copyrighted. No part of this repository may be reproduced, distributed, or used without explicit permission from the owner.
+
+https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
 
 
 ## What's Poppin'? 
